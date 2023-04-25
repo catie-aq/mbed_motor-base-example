@@ -8,14 +8,14 @@ An example of using the 6TRON Motor Base library with MbedOS.
 
 The following boards are required:
 
-- *List mbed_motor-base-example hardware requirements here*
+- *Any board supported by MbedOS*
 
 ### Software requirements
 
 mbed_motor-base-example makes use of the following libraries (automatically
 imported by `mbed deploy` or `mbed import`):
 
-- *List mbed_motor-base-example software requirements here*
+- *[6tron_motor-base](https://github.com/catie-aq/6tron_motor-base)*
 
 ## Usage
 
